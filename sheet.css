@@ -1,0 +1,27 @@
+
+html, body {
+  height: 100%;
+}
+
+nav {
+  text-align: center;
+  background: #FFD166;
+  color: #002614;
+  font-size: 28px;
+  height: 18.48591549%;
+  font-family: 'Goldman';
+}
+
+#recycle {
+  position: absolute;
+  opacity: 5%;
+}
+
+#metal {
+  background: #073b4c
+}
+
+@font-face {
+  font-family: "Goldman";
+  src: url('fonts/Goldman-Regular.ttf') format('truetype');
+}
