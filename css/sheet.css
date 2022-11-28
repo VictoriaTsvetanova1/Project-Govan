@@ -52,5 +52,5 @@ h1 {
 
 @font-face {
   font-family: "Goldman";
-  src: url('fonts/Goldman-Regular.ttf') format('truetype');
+  src: url('../fonts/Goldman-Regular.ttf') format('truetype');
 }
