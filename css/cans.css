@@ -1,0 +1,48 @@
+
+
+html, body {
+    background: #073B4C;
+    background-image: url("");
+}
+
+div {
+    display: flex;
+    display: grid;
+    justify-content: center; 
+    align-items: center;
+}
+
+.photo {
+    background: #073B4C;
+}
+
+.header {
+    background-color: #FFD166;
+}
+
+#metal_can {
+    filter: invert(100%);
+}
+
+#headline {
+    color: #073B4C;
+    font-size: 70px;
+}
+
+h1 {
+    font-family: 'Goldman';
+}
+
+.text {
+    color: #FFFFFF;
+    font-size: 60px;
+}
+
+#recycle {
+    opacity: 5%;
+}
+
+@font-face {
+    font-family: "Goldman";
+    src: url('../fonts/Goldman-Regular.ttf') format('truetype');
+}
