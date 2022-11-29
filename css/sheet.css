@@ -22,7 +22,7 @@ h1 {
 
 #recycle {
   display: flex;
-  height: 37%;
+  height: 35%;
   position: absolute;
   opacity: 5%;
 }

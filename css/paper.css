@@ -1,0 +1,46 @@
+html, body {
+    background: #118AB2;
+}
+
+div {
+    display: flex;
+    display: grid;
+    justify-content: center; 
+    align-items: center;
+}
+
+.photo {
+    background: #118AB2;
+}
+
+.header {
+    background-color: #FFD166;
+}
+
+#metal_can {
+    filter: invert(100%);
+}
+
+#headline {
+    color: #000000;
+    font-size: 70px;
+}
+
+h1 {
+    font-family: 'Goldman';
+}
+
+.text {
+    color: #FFFFFF;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+#recycle {
+    opacity: 5%;
+}
+
+@font-face {
+    font-family: "Goldman";
+    src: url('../fonts/Goldman-Regular.ttf') format('truetype');
+}

@@ -2,7 +2,6 @@
 
 html, body {
     background: #073B4C;
-    background-image: url("");
 }
 
 div {
@@ -25,7 +24,7 @@ div {
 }
 
 #headline {
-    color: #073B4C;
+    color: #000000;
     font-size: 70px;
 }
 
