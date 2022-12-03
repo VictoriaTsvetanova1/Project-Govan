@@ -5,30 +5,24 @@ html, body {
 }
 
 .header {
-  display: flex;
   background: #FFD166;
   height: 18%;
 }
 
 #headline {
-  display: flex;
   color: #002614;
   font-size: 50px;
 }
 
 h1 {
+  display: flex;
   font-family: 'Goldman';
 }
 
 #recycle {
-  display: flex;
   height: 35%;
   position: absolute;
   opacity: 5%;
-}
-
-#metal {
-  background: #073b4c
 }
 
 .col {
@@ -38,14 +32,7 @@ h1 {
 
 .icons {
   height: 40%; 
-  display: flex;
   filter: invert(100%);
-}
-
-.footer {
-  display: flex;
-  height: 14%;
-  margin-bottom: 0;
 }
 
 @font-face {

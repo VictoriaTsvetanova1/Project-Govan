@@ -3,8 +3,7 @@
 }
 
 html, body {
-    display: grid;
-    background-color: #073b4c;
+    display: flex;
   }
   
   .header {
