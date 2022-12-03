@@ -4,6 +4,7 @@
 
 html, body {
     display: flex;
+    background-color: #118AB2;
   }
   
   .header {
